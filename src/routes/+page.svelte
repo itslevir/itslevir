@@ -17,12 +17,14 @@
 		<h1 class="text-massive text-yellow-300">
 			good<br />{timeOfDay}
 		</h1>
-		<p>i'm levi r. i do photography, code, and spend most my time in the real world.</p>
+		<p class="text-center lg:text-start">
+			i'm levi r. i do photography, code, and spend most my time in the real world.
+		</p>
 		<div class="button-group flex flex-row py-3">
 			<a href="/photography" class="button primary">photography</a>
 			<a href="/code" class="button">code</a>
 			<a href="/about" class="button">about</a>
-			<div class="socials flex w-16 flex-row justify-between">
+			<div class="socials flex w-full flex-row justify-between lg:w-16">
 				<a href="https://instagram.com/leverrr_">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
@@ -99,5 +101,20 @@
 
 	.button:hover {
 		background-color: rgba(31, 31, 31, 0.9);
+	}
+
+	@media (max-width: 768px) {
+		.hero {
+			width: 100%;
+			padding: 0 1rem;
+		}
+
+		.bg {
+			background-image: none;
+		}
+
+		.text-massive {
+			font-size: 6rem;
+		}
 	}
 </style>

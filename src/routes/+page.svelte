@@ -23,7 +23,6 @@
 		<div class="button-group flex flex-row py-3">
 			<a href="/photography" class="button primary">photography</a>
 			<a href="/code" class="button">code</a>
-			<a href="/about" class="button">about</a>
 			<div class="socials flex w-full flex-row justify-between lg:w-16">
 				<a href="https://instagram.com/leverrr_">
 					<svg

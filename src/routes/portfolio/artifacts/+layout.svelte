@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { LayoutProps } from '../photos/$types';
+	import type { LayoutProps } from './$types';
 	import { photos } from '$lib/photos.json';
 
 	let { data, children, params }: LayoutProps = $props();

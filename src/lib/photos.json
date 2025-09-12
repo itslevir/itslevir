@@ -2,26 +2,82 @@
 	"photos": [
 		{
 			"src": "https://cdn.itslevir.com/IMG_9715.JPEG",
-			"title": "Portrait Photo",
-			"alt": "An expressionless",
+			"title": "conflicted",
+			"alt": "why, when the sun shines and the flowers bloom, do i feel so blue?",
 			"people": ["@jrellyw"],
 			"tags": ["portrait", "people"],
-			"date": "0",
+			"date": "1747847018",
 			"location": {
 				"lat": 0,
 				"lon": 0
 			}
 		},
-        {
-            "src": "https://cdn.itslevir.com/IMG_1189.JPEG",
-            "title": "Landscape Photo",
-            "alt": "A beautiful landscape with mountains and a lake.",
-            "tags": ["landscape", "outdoors"],
-            "date": "0",
-            "location": {
-                "lat": 0,
-                "lon": 0
-            }
-        }
+		{
+			"src": "https://cdn.itslevir.com/IMG_1189.JPEG",
+			"title": "montana's baby",
+			"alt": "better than idaho",
+			"tags": ["landscape", "outdoors"],
+			"date": "1704487200",
+			"location": {
+				"lat": 45.6395040,
+				"lon": -110.9133064
+			}
+		},
+		{
+			"src": "https://cdn.itslevir.com/IMG_9891.jpg",
+			"title": "track & field",
+			"alt": "runner's high",
+			"people": ["@caden_barclay32"],
+			"tags": ["portrait", "people"],
+			"date": "1746615948",
+			"location": {
+				"lat": 47.3274017,
+				"lon": -122.3173286
+			}
+		},
+		{
+			"src": "https://cdn.itslevir.com/IMG_0002.jpg",
+			"title": "limerence",
+			"alt": "bright flowers",
+			"tags": ["closeup", "outdoors"],
+			"date": "1719708487",
+			"location": {
+				"lat": 45.5184112,
+				"lon": -122.7048860
+			}
+		},
+		{
+			"src": "https://cdn.itslevir.com/IMG_0337.jpeg",
+			"title": "golden hour",
+			"alt": "mt. si at 4 am",
+			"tags": ["landscape", "outdoors"],
+			"date": "1751284331",
+			"location": {
+				"lat": 47.5069852,
+				"lon": -121.7391325
+			}
+		},
+		{
+			"src": "https://cdn.itslevir.com/IMG_0368.jpg",
+			"title": "descending ridge",
+			"alt": "cascades",
+			"tags": ["outdoors"],
+			"date": "1751288351",
+			"location": {
+				"lat": 47.5069852,
+				"lon": -121.7391325
+			}
+		},
+		{
+			"src": "https://cdn.itslevir.com/IMG_0376.jpg",
+			"title": "the snoqualmie valley",
+			"alt": "clear morning",
+			"tags": ["landscape", "outdoors"],
+			"date": "1751288471",
+			"location": {
+				"lat": 47.5069852,
+				"lon": -121.7391325
+			}
+		}
 	]
 }

@@ -34,6 +34,7 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
+		"svelty-picker": "^6.1.5",
 		"wrangler": "^4.27.0"
 	}
 }

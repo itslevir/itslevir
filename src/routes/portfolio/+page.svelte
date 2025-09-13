@@ -4,14 +4,14 @@
 		<div class="photo-collection">
 			<a href="/portfolio/artifacts/landscape" class="photo-item">
 				<img
-					src="https://cdn.itslevir.com/IMG_1189.JPEG"
+					src="https://cdn.itslevir.com/cdn-cgi/image/quality=80,width=256,height=256,format=webp/IMG_1189.JPEG"
 					alt="A snowy mountain in the distance, covered with fog. The land in front of it is dry and dusty rolling hills"
 				/>
 				<span>landscape / outdoors</span>
 			</a>
 			<a href="/portfolio/artifacts/portrait" class="photo-item">
 				<img
-					src="https://cdn.itslevir.com/IMG_9715.JPEG"
+					src="https://cdn.itslevir.com/cdn-cgi/image/quality=80,width=256,height=256,format=webp/IMG_9715.JPEG"
 					alt="An expressionless male face against a black background. A glint of light shines off his face, and he his holding a bunch of white flowers in his hand."
 				/>
 				<span>portrait / people</span>

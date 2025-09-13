@@ -1,3 +1,7 @@
+<svelte:head>
+	<link rel="preconnect" href="https://cdn.itslevir.com" />
+</svelte:head>
+
 <div class="layout">
 	<slot />
 </div>

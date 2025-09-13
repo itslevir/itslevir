@@ -4,7 +4,7 @@
 		<p>i make things, every once in a while</p>
 		<div class="links">
 			<a href="/portfolio" class="button primary"><span>see them</span></a>
-			<a href="/hire" class="button"><span>hire me</span></a>
+			<a href="https://cal.com/levir/photoshoot" class="button"><span>hire me</span></a>
 		</div>
 	</main>
 </div>

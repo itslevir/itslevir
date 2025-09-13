@@ -78,6 +78,62 @@
 				"lat": 47.5069852,
 				"lon": -121.7391325
 			}
+		},
+		{
+			"src": "https://cdn.itslevir.com/IMG_1553.jpeg",
+			"title": "icicle river",
+			"alt": "icicle river",
+			"tags": ["river", "outdoors", "landscape"],
+			"date": "1728772102",
+			"location": {
+				"lat": 47.5427352,
+				"lon": -120.7317528
+			}
+		},
+		{
+			"src": "https://cdn.itslevir.com/IMG_1521.jpeg",
+			"title": "warmup",
+			"alt": "pre 5k",
+			"people": ["@matt_boi_20"],
+			"tags": ["portrait", "people", "sports"],
+			"date": "1728516322",
+			"location": {
+				"lat": 47.3447124,
+				"lon": -122.2801384
+			}
+		},
+		{
+			"src": "https://cdn.itslevir.com/IMG_1161.jpeg",
+			"title": "5am in fed",
+			"alt": "blue hour // mornings are a time for new beginnnings",
+			"tags": ["city", "moody"],
+			"date": "1728305902",
+			"location": {
+				"lat": 47.3447124,
+				"lon": -122.3004115
+			}
+		},
+		{
+			"src": "https://cdn.itslevir.com/_MG_6832.jpeg",
+			"title": "not without dignity",
+			"alt": "homeless man at an I-5 truck stop playing saxophone for spare change",
+			"tags": ["portrait", "people"],
+			"date": "1722357922",
+			"location": {
+				"lat": 46.3237792,
+				"lon": -122.9117279
+			}
+		},
+		{
+			"src": "https://cdn.itslevir.com/IMG_0006.jpeg",
+			"title": "mother and son",
+			"alt": "they are all we have",
+			"tags": ["landscape", "people"],
+			"date": "1746931522",
+			"location": {
+				"lat": 44.0605508,
+				"lon": -121.2833457
+			}
 		}
 	]
 }

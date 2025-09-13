@@ -1,6 +1,6 @@
 <div class="content">
 	<main>
-		<h1>it's levi r.</h1>
+		<h1>hi, i'm levi r.</h1>
 		<p>i make things, every once in a while</p>
 		<div class="links">
 			<a href="/portfolio" class="button primary"><span>see them</span></a>

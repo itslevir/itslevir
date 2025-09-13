@@ -15,4 +15,4 @@ export const connect = async () => {
 	const db = await mongoose.connect(MONGODB_URI);
 	cachedDb = db;
 	return db;
-}
+};

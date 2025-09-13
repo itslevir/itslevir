@@ -2,7 +2,7 @@ import { redirect } from '@sveltejs/kit';
 import type { Actions } from './$types';
 
 export const actions = {
-	default: async (event) => {
+	default: async (event: { request: { formData: () => FormData; }; }) => {
 		const data = await event.request.formData();
 		const request = {
 			user: {
@@ -41,8 +41,8 @@ export const actions = {
 				}
 			})
 		});
+		// eslint-disable-next-line @typescript-eslint/no-unused-vars
 		const res = (await req).json();
-		if (res)
-		return redirect(303, '/hire/thank-you');
+		if (req.ok) return redirect(303, '/hire/thank-you');
 	}
 } satisfies Actions;

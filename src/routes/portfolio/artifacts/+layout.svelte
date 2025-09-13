@@ -20,7 +20,7 @@
 							<img src={photo.src} alt={photo.alt} />
 							<figcaption>
 								<h2>{photo.title}</h2>
-								<p>{photo.date}</p>
+								<p>{photo.alt}</p>
 							</figcaption>
 						</figure>
 					</a>
@@ -32,6 +32,18 @@
 </div>
 
 <style>
+	:global(html) {
+		overflow: scroll !important;
+		height: auto !important;
+		width: 100% !important;
+	}
+
+	:global(.content, main) {
+		padding: 0;
+		margin: 0;
+		width: 100% !important;
+		height: auto !important;
+	}
 	a {
 		text-decoration: none;
 		color: inherit;
@@ -45,19 +57,23 @@
 	}
 	.content {
 		width: 100vw;
+		max-width: 100vw;
 		height: 100vh;
 
 		display: flex;
 		flex-direction: column;
 		align-items: center;
 		justify-content: center;
+		overflow-x: none !important;
 	}
 
 	.gallery {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(256px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(256px, 1fr));
 		gap: 16px;
 		width: 100%;
+		max-width: 100vw;
 		padding: 16px;
+		box-sizing: border-box;
 	}
 </style>
